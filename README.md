@@ -2,16 +2,20 @@
 **[English](README.md) | [中文](README_zh.md)**
 
 
-# YoushouChat
-A Role-Play Chat LLM Based on Fabulous Beasts (有兽焉)
+# 有兽Chat
+A Role-Play Chat LLM Based on Fabulous Beasts (有兽焉). Currently supports chatting with PiPi, whose memory stops by chapter 500.
 
-Youshou Chat opens through a very simple Gradio demo, currently supports 20 rounds of chat hisory (will empty history once exceed).
+Youshou Chat opens through a very simple Gradio demo, currently supports 20 rounds of chat hisory (will empty history once exceed). Better to use Chinese.
 
 Your feedback and suggestions are highly welcome!
 
 # Access
-## Current Status: Open
-Access through: https://4d2d79c639897047db.gradio.live   
+## Current Status: 
+:white_check_mark: On Test
 
-(This link may expire rapidly, so make sure to check the latest link here. I will update the link once YoushouChat is available for test.
+<!-- :no_entry: Service Down, Under Maintainance -->
 
+Chat Link: https://4d2d79c639897047db.gradio.live   
+
+
+(This link may expire rapidly, so make sure to check the latest link here. I will update the link once YoushouChat is available for test, so make sure to check here if your link expires.)
