@@ -1,24 +1,25 @@
 ## Language / 语言
-**[English](README.md) | [中文](README_ZH.md)**
+**[中文](README.md) | [English](README_EN.md)**
 
 
-# YoushouChat
-A Role-Play Chat LLM Based on Fabulous Beasts (有兽焉). Currently supports chatting with PiPi, whose memories are limited to events before chapter 500.
-## Current Version:
-:one: Tianlu_0.5.1.dev
-  - Quite aggressive. Be careful not to end up in his mouth!
-  - May have messed memories with hallucinated content. We are working on fixing that!
+# 有兽Chat
+这是一款基于开源大语言模型驱动的有兽焉角色扮演对话Demo，目前支持貔貅皮皮，记忆与性格截止到漫画第500章。
 
-## Current Status: 
-:white_check_mark: On Test
+## 目前支持的版本：
+:one: 天禄0.5.1.dev
+  - 皮皮的脾气十分暴躁！小心不要被干掉或者吃掉~
+  - 皮皮可能出现记忆混乱、输出幻觉内容的现象，我们正在改善这一点。
+  
+## 目前状态: 
+:white_check_mark: 开放测试
 
-<!-- :no_entry: Service Down, Under Maintainance -->
+有兽Chat目前使用非常简洁的Gradio网页进行对话，目前最高支持16K上下文（理论上是支持的，但单次输入最好不要超过100字），20轮对话（超出20轮将强制清零）。
 
-Youshou Chat opens through a very simple Gradio demo, currently supports 20 rounds of chat hisory (will empty history once exceed). Better to use Chinese.
+欢迎各位来体验对话！你们的反馈和建议对本项目十分重要！
 
-Your feedback and suggestions are highly welcome!
-## Access
-Chat Link: https://4d2d79c639897047db.gradio.live   
+<!-- :no_entry: 暂时下线 -->
 
-(This link may expire rapidly, so make sure to check the latest link here. I will update the link once YoushouChat is available for test, so make sure to check here if your link expires.)
+## 立即使用
+测试链接: https://4d2d79c639897047db.gradio.live   
 
+这是基于Gradio的中转链接，由于本项目频繁的测试，在每次上下线时都会被强制更新链接。我们会在更改链接后第一时间更新链接，如遇链接失效请参考本网站最新链接。
