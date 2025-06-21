@@ -1,4 +1,4 @@
-##语言 | Language
+## 语言 | Language
 **[中文](README.md) | [English](README_EN.md)**
 
 
