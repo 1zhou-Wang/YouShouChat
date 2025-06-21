@@ -1,5 +1,5 @@
 ## Language / 语言
-**[English](README.md) | [中文](README_zh.md)**
+**[English](README.md) | [中文](README_ZH.md)**
 
 
 # YoushouChat
