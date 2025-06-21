@@ -5,7 +5,7 @@
 # YoushouChat
 A Role-Play Chat LLM Based on Fabulous Beasts (有兽焉). Currently supports chatting with PiPi, whose memories are limited to events before chapter 500.
 ## Current Version:
-:one: Tianlu_0.5.0.dev
+:one: Tianlu_0.5.1.dev
   - Quite aggressive. Be careful not to end up in his mouth!
   - May have messed memories with hallucinated content. We are working on fixing that!
 
