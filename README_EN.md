@@ -23,3 +23,7 @@ Chat Link: https://4d2d79c639897047db.gradio.live
 
 (This link may expire rapidly, so make sure to check the latest link here. I will update the link once YoushouChat is available for test, so make sure to check here if your link expires.)
 
+## Acknowledgement
+  - Want to know more about [Fabulous Beasts](https://manga.bilibili.com/detail/mc29329) and its [Animations](https://www.bilibili.com/bangumi/media/md28235647)? Check it out here!
+  - This project is based on [YouzhouWiki](https://youshou.wiki/). Thanks for their contribution!
+  - We will release SFT workflow, dialog generation, training-data processing, RAG framework and checkpoints soon. Please stay updated!
