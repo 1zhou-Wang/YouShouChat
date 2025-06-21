@@ -8,6 +8,7 @@ A Role-Play Chat LLM Based on Fabulous Beasts (有兽焉). Currently supports ch
 :one: Tianlu_0.5.1.dev
   - Quite aggressive. Be careful not to end up in his mouth!
   - May have messed memories with hallucinated content. We are working on fixing that!
+  - _**Spoiler Content**_ :no_entry_sign:: This version of PiPi is not aware of his *** and the DEATH of ***. Ask him if you doubt about that!
 
 ## Current Status: 
 :white_check_mark: On Test
