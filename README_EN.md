@@ -19,7 +19,7 @@ YouShouChat opens through a very simple Gradio demo, currently supports 20 round
 
 Your feedback and suggestions are highly welcome!
 ## Access
-Chat Link: https://4d2d79c639897047db.gradio.live   
+Chat Link: https://c8f53bd56046cc0324.gradio.live 
 
 (This link may expire rapidly, so make sure to check the latest link here. I will update the link once YoushouChat is available for test, so make sure to check here if your link expires.)
 
