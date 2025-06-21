@@ -3,7 +3,7 @@
 
 
 # 有兽Chat
-A Role-Play Chat LLM Based on Fabulous Beasts (有兽焉). Currently supports chatting with PiPi, whose memory stops by chapter 500.
+A Role-Play Chat LLM Based on Fabulous Beasts (有兽焉). Currently supports chatting with PiPi, whose memories are limited to events before chapter 500.
 
 Youshou Chat opens through a very simple Gradio demo, currently supports 20 rounds of chat hisory (will empty history once exceed). Better to use Chinese.
 
