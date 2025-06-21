@@ -26,4 +26,5 @@ Chat Link: https://4d2d79c639897047db.gradio.live
 ## Acknowledgement
   - Want to know more about [Fabulous Beasts](https://manga.bilibili.com/detail/mc29329) and its [Animations](https://www.bilibili.com/bangumi/media/md28235647)? Check it out here!
   - This project is based on [YouzhouWiki](https://youshou.wiki/). Thanks for their contribution!
+  - This project is built upon [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) and [LangChain](https://python.langchain.com/docs/introduction/).
   - We will release SFT workflow, dialog generation, training-data processing, RAG framework and checkpoints soon. Please stay updated!
