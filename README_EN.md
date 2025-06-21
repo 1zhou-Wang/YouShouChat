@@ -2,7 +2,7 @@
 **[中文](README.md) | [English](README_EN.md)**
 
 
-# YoushouChat
+# YouShouChat
 A Role-Play Chat LLM Based on Fabulous Beasts (有兽焉). Currently supports chatting with PiPi, whose memories are limited to events before chapter 500.
 ## Current Version:
 :one: Tianlu_0.5.1.dev
@@ -15,7 +15,7 @@ A Role-Play Chat LLM Based on Fabulous Beasts (有兽焉). Currently supports ch
 
 <!-- :no_entry: Service Down, Under Maintainance -->
 
-Youshou Chat opens through a very simple Gradio demo, currently supports 20 rounds of chat hisory (will empty history once exceed). Better to use Chinese.
+YouShouChat opens through a very simple Gradio demo, currently supports 20 rounds of chat hisory (will empty history once exceed). Better to use Chinese.
 
 Your feedback and suggestions are highly welcome!
 ## Access
