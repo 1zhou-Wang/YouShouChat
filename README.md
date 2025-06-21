@@ -1,3 +1,7 @@
+## Language / 语言
+**[English](README.md) | [中文](README_zh.md)**
+
+
 # YoushouChat
 A Role-Play Chat LLM Based on Fabulous Beasts (有兽焉)
 
