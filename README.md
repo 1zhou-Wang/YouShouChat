@@ -28,4 +28,5 @@
 ## 声明
   - 想了解更多关于有兽焉的内容？请移步 [有兽焉漫画](https://manga.bilibili.com/detail/mc29329) 和 [有兽焉动漫](https://www.bilibili.com/bangumi/media/md28235647) !
   - 本项目参考并使用了来自[有兽档案馆](https://youshou.wiki/)的数据，感谢他们为本项目做出的贡献！
+  - 本项目基于 [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) 和 [LangChain](https://docs.langchain.com.cn/docs/introduction/) 完成。 
   - 本项目将在更新至较为完善的版本后开源，包括但不限于基座模型选择、数据生成规范、后训练流程、增强检索框架、模型历史节点等。敬请关注！
