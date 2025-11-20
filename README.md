@@ -21,6 +21,8 @@
 
 <!-- :no_entry: 暂时下线 -->
 
+因服务器承载问题，YouShouChat 在线服务暂时关闭，但您仍然可以通过[Huggingface](https://huggingface.co/DiDisama/YouShouChat_PiPi_0.5.1.dev)界面访问第一版模型。
+
 ## 立即使用
 <!--测试链接: https://be6741011f925c9eb3.gradio.live-->
 
